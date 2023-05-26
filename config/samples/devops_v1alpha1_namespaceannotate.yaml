@@ -1,0 +1,6 @@
+apiVersion: devops.example.io/v1alpha1
+kind: NamespaceAnnotate
+metadata:
+  name: namespaceannotate-sample
+spec:
+  # TODO(user): Add fields here
